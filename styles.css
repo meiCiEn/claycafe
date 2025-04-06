@@ -187,7 +187,7 @@ nav a:hover {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(rgba(59, 46, 64, 0.5), rgba(59, 46, 64, 0.5)), url(/images/photos/woman-painting-mug.jpg);
+    background-image: linear-gradient(rgba(59, 46, 64, 0.5), rgba(59, 46, 64, 0.5)), url(images/photos/woman-painting-mug.jpg);
     /* Adjusted linear gradient */
     background-repeat: no-repeat;
     background-size: cover;
